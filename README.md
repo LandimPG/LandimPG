@@ -5,6 +5,14 @@
 ⚡ Ás vezes dá um pouco de medo de tentar aprender programação porque são muito assuntos
 e me sinto perdido, e estou tentando lutar contra a procrastinação...
 
+## O que estou tentando aprender agora:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+
+<div>
+<a href="https://github.com/LandimPG">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandimPG&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/ >
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LandimPG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+</div>
 <!--
 **LandimPG/LandimPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

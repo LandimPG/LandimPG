@@ -1,4 +1,9 @@
-## Hi there 👋
+## Iae, povo, prazer! Meu nome é Paulo 👋
+
+🌱 Atualmente estou tentando aprender programação na Alura ...
+
+⚡ Ás vezes dá um pouco de medo de tentar aprender programação porque são muito assuntos
+e me sinto perdido, e estou tentando lutar contra a procrastinação...
 
 <!--
 **LandimPG/LandimPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

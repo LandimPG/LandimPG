@@ -15,7 +15,7 @@ Engenheiro de Software em formação pela **UFCA (Universidade Federal do Cariri
 
 * **Atualmente focado em:** Estruturar códigos sólidos com Python e C.
 * **Estou aprendendo:** Computação em Nuvem com a AWS (recentemente criei e hospedei meu primeiro site estático no Amazon S3!).
-* **Procuro colaborar em:** Projetos universitários que tenham impacto na UFCA e na comunidade local.
+* **Procuro colaborar em:** Projetos universitários que tenham impacto na UFCA, na comunidade local e em projetos relacionados ao ensino da tecnologia.
 * **Curiosidade:** Gosto de pensar na tecnologia não apenas como código, mas como uma ferramenta de transformação social e educacional.
 
 <hr>

@@ -1,8 +1,8 @@
 ## Iae, povo, prazer! Meu nome é Paulo 👋
 
-🌱 Atualmente estou tentando aprender programação na Alura ...
+Atualmente estou tentando dar o meu melhor para aprender programação ...
 
-⚡ Ás vezes dá um pouco de medo de tentar aprender programação porque são muito assuntos
+Ás vezes dá um pouco de medo de tentar aprender programação porque são muito assuntos
 e me sinto perdido, e estou tentando lutar contra a procrastinação...
 
 ## O que estou tentando aprender agora:

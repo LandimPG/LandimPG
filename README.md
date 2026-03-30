@@ -1,29 +1,22 @@
-## Iae, povo, prazer! Meu nome é Paulo 👋
+## Iae, povo, prazer! Meu nome é Paulo Gabriel 👋
 
-Atualmente estou tentando dar o meu melhor para aprender programação ...
+Engenheiro de Software em formação pela **UFCA (Universidade Federal do Cariri)** 🎓, tentando a cada dia me manter constante no aprendizado para me tornar um bom profissional.
 
-Ás vezes dá um pouco de medo de tentar aprender programação porque são muito assuntos
-e me sinto perdido, e estou tentando lutar contra a procrastinação...
 
-## O que estou tentando aprender agora:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+### Tecnologias e Ferramentas:
 
-<div>
-<a href="https://github.com/LandimPG">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandimPG&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/ >
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LandimPG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Paulo-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
+  <img align="center" alt="Paulo-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Paulo-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
 </div>
-<!--
-**LandimPG/LandimPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### O que estou construindo e aprendendo agora:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Atualmente focado em:** Estruturar códigos sólidos com Python e C.
+* **Estou aprendendo:** Computação em Nuvem com a AWS (recentemente criei e hospedei meu primeiro site estático no Amazon S3!).
+* **Procuro colaborar em:** Projetos universitários que tenham impacto na UFCA e na comunidade local.
+* **Curiosidade:** Gosto de pensar na tecnologia não apenas como código, mas como uma ferramenta de transformação social e educacional.
+
+<hr>
+
